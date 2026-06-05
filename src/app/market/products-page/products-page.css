@@ -1,0 +1,17 @@
+.products-page {
+  padding: 2rem 1rem;
+  background: #fff9f5;
+  min-height: 100vh;
+}
+
+.page-title {
+  text-align: center;
+  color: #6b4e71;
+  font-size: 2.3rem;
+  margin-bottom: 3rem;
+  font-weight: 600;
+}
+
+:host {
+  display: block;
+}
